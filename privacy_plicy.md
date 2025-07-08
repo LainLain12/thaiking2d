@@ -1,53 +1,78 @@
-Privacy Policy for "Thai King 2D"
-Effective Date: 2025-06-26
+✅ Updated Privacy Policy for “Thai King 2D”
+Effective Date: 2025-07-08
 Developer: Kingdom Developer
 
 1. Information We Collect
-Firebase Analytics
-We use Firebase Analytics to collect anonymous usage data such as:
+🔹 Firebase Analytics
+We use Firebase Analytics to collect anonymous usage data, such as:
 
-App usage behavior (screens opened, session duration)
+App usage behavior (e.g., screens opened, session duration)
 
-Device information (device model, OS version, language, country)
+Device information (e.g., model, OS version, language, country)
 
-This data helps us improve the performance and user experience of our app.
+This data is used to help us improve app performance and user experience.
 
-Firebase Cloud Messaging (FCM)
-We use FCM to send push notifications. To do this, a unique device token is generated. This token:
+🔹 Firebase Cloud Messaging (FCM)
+We use Firebase Cloud Messaging to send push notifications. A unique device token is generated:
 
-Does not personally identify you
+This token does not personally identify you
 
-Is only used for delivering notifications
+It is used solely for delivering notifications
 
-API Calls
-Our app may make API requests to load or send app-related data. These calls:
+🔹 Public Chat Feature
+When using the public chat feature, we may temporarily collect:
+Display name or username
 
-Do not collect or transmit personally identifiable information
+User ID
 
-Are used only to support app functionality (such as updating content)
+Profile image (if any)
+
+Chat messages
+
+This data is stored securely on our server for communication purposes and basic moderation (e.g., reporting, blocking). It is not shared with any third parties and is retained temporarily.
+
+🔹 Custom API (Jetty Server)
+Our app connects to our custom backend server to load or update app content (e.g., live data, history). These API calls:
+
+Do not collect personally identifiable information unless voluntarily submitted
+
+Are encrypted in transit using HTTPS/WSS
 
 2. How We Use the Information
 We use the collected information for the following purposes:
 
-To analyze and improve app performance
+To improve app functionality and performance
 
-To detect and fix bugs or crashes
+To enable real-time chat and moderation
 
-To send important updates and notifications (via FCM)
+To fix bugs and analyze crashes
+
+To send essential updates via notifications
 
 3. Data Sharing
 We do not share your personal data with third parties.
+All analytics and notification data is processed securely by Google Firebase, in accordance with their privacy standards.
 
-All analytics and messaging data are processed securely by Google Firebase, in compliance with their Privacy Policy.
+4. Data Retention & Deletion
+Chat messages may be stored temporarily for moderation and deleted periodically.
 
-4. Security
-We take data security seriously. All data handled by Firebase is encrypted in transit and at rest. We rely on Firebase’s industry-standard security measures to protect your information.
+Users can request deletion of their account or data by visiting the link below:
+👉 https://shwemyanmar2d.us/delete
 
-5. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be posted within the app or on our official site.
+Upon valid request, all stored data (chat, user ID, profile info) will be deleted within 7 business days.
 
-6. Contact Us
-If you have any questions or concerns about this Privacy Policy, you can contact us at:
+5. Security
+We take user data security seriously:
 
-📧 Email: aungthuta960@gmail.com
+Firebase encrypts data in transit and at rest.
 
+Our servers are protected with access control and use HTTPS protocols.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy when necessary.
+All updates will be posted within the app or on our website.
+
+7. Contact Us
+If you have any questions or wish to make a deletion request, you may contact us at:
+
+📧 Email: aungthuta960@gmail.com 
